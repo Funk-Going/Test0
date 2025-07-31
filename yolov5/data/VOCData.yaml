@@ -1,0 +1,7 @@
+train: H:\AI\HongHu\VehicleCount\Code_Model\VehicleCountor\yolov5\data\VOCData\train.txt
+val: H:\AI\HongHu\VehicleCount\Code_Model\VehicleCountor\yolov5\data\VOCData\val.txt
+test: H:\AI\HongHu\VehicleCount\Code_Model\VehicleCountor\yolov5\data\VOCData\test.txt
+
+
+nc: 1
+names: ["car"]
